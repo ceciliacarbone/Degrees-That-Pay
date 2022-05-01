@@ -4,7 +4,7 @@ This Rshiny application will show information on a data set that shows the relat
 You can access my app [here](https://ccarbon6.shinyapps.io/Final-Project/)
 
 ## How to re-create the application
-1. Download the Data folder
+1. Download the Data folder and www folder
 2. Open the R Project
 3. Run the application
 
